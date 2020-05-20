@@ -1,0 +1,13 @@
+C:\Users\yuras\Desktop\2-Семестр\oop\laba5\Test5laba\Test5laba\bin\Debug\netcoreapp3.1\Test5laba.exe
+C:\Users\yuras\Desktop\2-Семестр\oop\laba5\Test5laba\Test5laba\bin\Debug\netcoreapp3.1\Test5laba.deps.json
+C:\Users\yuras\Desktop\2-Семестр\oop\laba5\Test5laba\Test5laba\bin\Debug\netcoreapp3.1\Test5laba.runtimeconfig.json
+C:\Users\yuras\Desktop\2-Семестр\oop\laba5\Test5laba\Test5laba\bin\Debug\netcoreapp3.1\Test5laba.runtimeconfig.dev.json
+C:\Users\yuras\Desktop\2-Семестр\oop\laba5\Test5laba\Test5laba\bin\Debug\netcoreapp3.1\Test5laba.dll
+C:\Users\yuras\Desktop\2-Семестр\oop\laba5\Test5laba\Test5laba\bin\Debug\netcoreapp3.1\Test5laba.pdb
+C:\Users\yuras\Desktop\2-Семестр\oop\laba5\Test5laba\Test5laba\obj\Debug\netcoreapp3.1\Test5laba.csprojAssemblyReference.cache
+C:\Users\yuras\Desktop\2-Семестр\oop\laba5\Test5laba\Test5laba\obj\Debug\netcoreapp3.1\Test5laba.csproj.CoreCompileInputs.cache
+C:\Users\yuras\Desktop\2-Семестр\oop\laba5\Test5laba\Test5laba\obj\Debug\netcoreapp3.1\Test5laba.AssemblyInfoInputs.cache
+C:\Users\yuras\Desktop\2-Семестр\oop\laba5\Test5laba\Test5laba\obj\Debug\netcoreapp3.1\Test5laba.AssemblyInfo.cs
+C:\Users\yuras\Desktop\2-Семестр\oop\laba5\Test5laba\Test5laba\obj\Debug\netcoreapp3.1\Test5laba.dll
+C:\Users\yuras\Desktop\2-Семестр\oop\laba5\Test5laba\Test5laba\obj\Debug\netcoreapp3.1\Test5laba.pdb
+C:\Users\yuras\Desktop\2-Семестр\oop\laba5\Test5laba\Test5laba\obj\Debug\netcoreapp3.1\Test5laba.genruntimeconfig.cache
